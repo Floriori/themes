@@ -1,2 +1,2 @@
 # themes
-angular2 themes with primeng
+angular2 theme with primeng
